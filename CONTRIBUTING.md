@@ -9,8 +9,8 @@ Before making a pull request, please make sure of the following:
     * Make a separate pull request for every new course
     * Use the following format [Title](link_to_course)
     
-    Check the spelling and grammar
-    Remove any trailing whitespaces
-    Links must be pointing straight to the courses, no URL shorteners. However, if the URL is too long (more than 80 characters), Google URL Shortener is allowed
+* Check the spelling and grammar
+* Remove any trailing whitespaces
+* Links must be pointing straight to the courses, no URL shorteners. However, if the URL is too long (more than 80 characters), Google URL Shortener is allowed
 
 Thank you for your suggestions! If you think there is anything to improve with the guidelines, please contact me at biodunch@gmail.com
