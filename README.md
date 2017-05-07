@@ -2,11 +2,11 @@
 Free Programming Resources for Beginners, Intermediate and Beginners
 
 ## Categories
-* [Beginner](#begginer)
+* [Beginner](#beginner)
 * [Intermediate](#intermediate)
 * [Advanced](#advanced)
 
-#### Courses that are being offered for the first time are marked as [NEW]. Many of these courses are completely self-paced. The rest will start at various times later this month. You can find complete lists of the technology-related courses starting later in 2017 on our Computer Science and Programming subject pages.
+#### Courses that are being offered for the first time are marked as [NEW]. Many of these courses are completely self-paced. The rest will start at various times later this month. You can find complete lists of the technology-related courses starting later in 2017 on class-central.com's Computer Science and Programming subject pages.
 
 
 ## Beginner
@@ -18,6 +18,33 @@ Free Programming Resources for Beginners, Intermediate and Beginners
 
   Massachusetts Institute of Technology via edX
   ★★★★★ (109 ratings) | 30th May, 2017
+* [Learn to Program: The Fundamentals](https://www.class-central.com/mooc/385/coursera-learn-to-program-the-fundamentals)
+  
+  University of Toronto via Coursera
+  ★★★★★ (92 ratings) | 8th May, 2017
+* [Intro to Computer Science](https://www.class-central.com/mooc/320/udacity-intro-to-computer-science)
+  
+  University of Virginia via Udacity
+  ★★★★☆ (64 ratings) | Self Paced
+* [Introduction to Computer Science](https://www.class-central.com/mooc/442/edx-introduction-to-computer-science)
+  
+  Harvard University via edX
+  ★★★★★ (62 ratings) | Self Paced
+* [An Introduction to Interactive Programming in Python (Part 2)](https://www.class-central.com/mooc/3196/coursera-an-introduction-to-interactive-programming-in-python-part-2)
+  
+  Rice University via Coursera
+  ★★★★★ (51 ratings) | 1st May, 2017
+* [How to Use Git and GitHub](https://www.class-central.com/mooc/2661/udacity-how-to-use-git-and-github)
+  
+  via Udacity
+  ★★★★☆ (41 ratings) | Self Paced
+* [Introduction to Linux](https://www.class-central.com/mooc/1857/edx-introduction-to-linux)
+  
+  Linux Foundation via edX
+  ★★★★☆ (37 ratings) | Self Paced
+  
+  ## CREDITS:
+     Dhawal Shah for www.class-central.com
 
 
 
