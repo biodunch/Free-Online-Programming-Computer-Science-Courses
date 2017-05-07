@@ -42,6 +42,22 @@ Free Programming Resources for Beginners, Intermediate and Beginners
   
   Linux Foundation via edX
   ★★★★☆ (37 ratings) | Self Paced
+
+## Intermediate
+* [Algorithms, Part I](https://www.class-central.com/mooc/339/coursera-algorithms-part-i)
+  
+  Princeton University via Coursera
+  ★★★★★ (54 ratings) | 15th May, 2017
+* [(NEW)Software Testing Fundamentals](https://www.class-central.com/mooc/8179/edx-software-testing-fundamentals)
+  
+  University System of Maryland via edX
+  31st May, 20
+* [(NEW)Software Development Fundamentals](https://www.class-central.com/mooc/8516/edx-software-development-fundamentals) 
+  University of Pennsylvania via edX
+  15th May, 2017
+
+
+## Expert
   
   ## CREDITS:
      Dhawal Shah for www.class-central.com
