@@ -53,9 +53,20 @@ Free Programming Resources for Beginners, Intermediate and Beginners
   University System of Maryland via edX
   31st May, 20
 * [(NEW)Software Development Fundamentals](https://www.class-central.com/mooc/8516/edx-software-development-fundamentals) 
+  
   University of Pennsylvania via edX
   15th May, 2017
-
+* [Web Development](https://www.udacity.com/course/web-development--cs253?utm_medium=referral&utm_campaign=api)
+  
+  via Udacity
+  ★★★★★ (17 ratings) | Self Paced
+* [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120?utm_medium=referral&utm_campaign=api)
+  
+  Stanford University via Udacity
+  ★★★★☆ (17 ratings) | Self Paced
+* [Android Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837?utm_medium=referral&utm_campaign=api)
+  Google via Udacity
+  ★★★★☆ (14 ratings) | Self Paced
 
 ## Expert
   
