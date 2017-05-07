@@ -11,9 +11,11 @@ Free Programming Resources for Beginners, Intermediate and Beginners
 
 ## Beginner
 * [An Introduction to Interactive Programming in Python (Part 1)](https://www.class-central.com/mooc/408/coursera-an-introduction-to-interactive-programming-in-python-part-1)
+
   Rice University via Coursera
   ★★★★★ (2951 ratings) | 1st May, 2017
 * [Introduction to Computer Science and Programming Using Python](https://www.class-central.com/mooc/1341/edx-introduction-to-computer-science-and-programming-using-python)
+
   Massachusetts Institute of Technology via edX
   ★★★★★ (109 ratings) | 30th May, 2017
 
