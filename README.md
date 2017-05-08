@@ -42,7 +42,16 @@ Free Programming Resources for Beginners, Intermediate and Beginners
   
   Linux Foundation via edX
   ★★★★☆ (37 ratings) | Self Paced
+* [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282?utm_medium=referral&utm_campaign=api)
+  
+  via Udacity
+  ★★★★★ (1 rating) | Self Paced
 
+* [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803?utm_medium=referral&utm_campaign=api)
+  
+  via Udacity
+  ★★★★★ (1 rating) | Self Paced
+  
 ## Intermediate
 * [Algorithms, Part I](https://www.class-central.com/mooc/339/coursera-algorithms-part-i)
   
@@ -65,6 +74,7 @@ Free Programming Resources for Beginners, Intermediate and Beginners
   Stanford University via Udacity
   ★★★★☆ (17 ratings) | Self Paced
 * [Android Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837?utm_medium=referral&utm_campaign=api)
+  
   Google via Udacity
   ★★★★☆ (14 ratings) | Self Paced
 
